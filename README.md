@@ -9,6 +9,8 @@ My personal openbox themes collection
 ### Simple Black
 ![Simple Black](simple-black.jpg)  
 ### Simple Blue
-![Simple Blue](simple-blue.jpg)  
+![Simple Blue](simple-blue.jpg) 
+### Simple Green
+![Simple Green](simple-green.jpg) 
 ### Arrow
 ![Arrow](arrow.jpg)
