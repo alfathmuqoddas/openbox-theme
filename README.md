@@ -14,3 +14,5 @@ My personal openbox themes collection
 ![Simple Green](simple-green.jpg) 
 ### Arrow
 ![Arrow](arrow.jpg)
+### Ecru
+![Ecru](ecru.jpg)
