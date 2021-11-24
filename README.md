@@ -7,12 +7,14 @@ My personal openbox themes collection
 
 ## Screenshot  
 ### Simple Black
-![Simple Black](simple-black.jpg)  
-### Simple Blue
-![Simple Blue](simple-blue.jpg) 
-### Simple Green
-![Simple Green](simple-green.jpg) 
-### Arrow
-![Arrow](arrow.jpg)
-### Ecru
-![Ecru](ecru.jpg)
+![Simple Black](simple-black.jpg)    
+### Simple Blue  
+![Simple Blue](simple-blue.jpg)  
+### Simple Green  
+![Simple Green](simple-green.jpg)     
+### Arrow  
+![Arrow](arrow.jpg)  
+### Ecru  
+![Ecru](ecru.jpg)  
+### Skew Arrow
+![Skew Arrow](skew-arrow.jpg)  
