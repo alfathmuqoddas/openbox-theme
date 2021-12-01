@@ -2,8 +2,10 @@
 My personal openbox themes collection
 
 ## Installation
-- Copy to ~/.themes (for current user) or /usr/share/themes (for all user)
-- Apply the themes from obconf
+- Copy the content of 'openbox-theme-alfath' to ~/.themes (for current user) or /usr/share/themes (for all user)
+- Apply the themes from obconf  
+or
+- run the './install.sh'
 
 ## Screenshot  
 ### Simple Black
