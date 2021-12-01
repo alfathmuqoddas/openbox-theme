@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -R * $HOME/.themes
+cp -R /openbox-theme-alfath/* $HOME/.themes

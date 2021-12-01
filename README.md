@@ -9,14 +9,14 @@ or
 
 ## Screenshot  
 ### Simple Black
-![Simple Black](simple-black.jpg)    
+![Simple Black](openbox-theme-alfath/simple-black.jpg)    
 ### Simple Blue  
-![Simple Blue](simple-blue.jpg)  
+![Simple Blue](openbox-theme-alfath/simple-blue.jpg)  
 ### Simple Green  
-![Simple Green](simple-green.jpg)     
+![Simple Green](openbox-theme-alfath/simple-green.jpg)     
 ### Arrow  
-![Arrow](arrow.jpg)  
+![Arrow](openbox-theme-alfath/arrow.jpg)  
 ### Ecru  
-![Ecru](ecru.jpg)  
+![Ecru](openbox-theme-alfath/ecru.jpg)  
 ### Skew Arrow
-![Skew Arrow](skew-arrow.jpg)  
+![Skew Arrow](openbox-theme-alfath/skew-arrow.jpg)  
