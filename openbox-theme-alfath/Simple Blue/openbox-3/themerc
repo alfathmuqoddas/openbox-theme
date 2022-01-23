@@ -24,14 +24,14 @@ menu.title.text.justify: center
 
 !! selected menu item
 menu.items.active.bg: flat
-menu.items.active.bg.color: #3b77bc
+menu.items.active.bg.color: #0275d8
 menu.items.active.text.color: #e5e5e5
 
 !! titlebar
 window.active.title.bg: flat
-window.active.title.bg.color: #3b77bc
+window.active.title.bg.color: #0275d8
 window.inactive.title.bg: flat
-window.inactive.title.bg.color: #3b77bc
+window.inactive.title.bg.color: #0275d8
 
 !! titlebar text
 window.label.text.justify: center
@@ -64,14 +64,14 @@ window.active.client.color:  #444444
 window.inactive.client.color:  #444444
 
 window.active.handle.bg: flat
-window.active.handle.bg.color: #3b77bc
+window.active.handle.bg.color: #0275d8
 window.inactive.handle.bg: flat
-window.inactive.handle.bg.color: #3b77bc
+window.inactive.handle.bg.color: #0275d8
 
 window.active.grip.bg: flat
-window.active.grip.bg.color: #3b77bc
+window.active.grip.bg.color: #0275d8
 window.inactive.grip.bg: flat
-window.inactive.grip.bg.color: #3b77bc
+window.inactive.grip.bg.color: #0275d8
 
 !! on-screen displays
 osd.border.width: 1
@@ -82,6 +82,6 @@ osd.bg.color: #444444
 osd.label.bg: flat solid
 osd.label.bg.color: #444444
 osd.hilight.bg: flat solid
-osd.hilight.bg.color: #3b77bc
+osd.hilight.bg.color: #0275d8
 osd.unhilight.bg: flat solid
 osd.unhilight.bg.color: #4d5066
