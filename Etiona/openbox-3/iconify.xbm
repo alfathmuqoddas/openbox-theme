@@ -1,0 +1,4 @@
+#define a7050adc59dd4fc7f8154295dc929622vohnyQPshzUOh5RX_width 8
+#define a7050adc59dd4fc7f8154295dc929622vohnyQPshzUOh5RX_height 8
+static char a7050adc59dd4fc7f8154295dc929622vohnyQPshzUOh5RX_bits[] = {
+  0x00, 0x00, 0x00, 0x00, 0xFF, 0x00, 0x00, 0x00, };
