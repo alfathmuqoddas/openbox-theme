@@ -322,9 +322,9 @@
     <action name="Execute">
       <startupnotify>
         <enabled>true</enabled>
-        <name>LXTerminal</name>
+        <name>ST Terminal</name>
       </startupnotify>
-      <command>lxterminal</command>
+      <command>st</command>
     </action>
   </keybind>
   
